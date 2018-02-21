@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\Paulos\Documents\UC Irvine\Personal Website\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3735940752.index
+3037137804.index
+1389220211.index
+89789361.index
+3057880741.index
